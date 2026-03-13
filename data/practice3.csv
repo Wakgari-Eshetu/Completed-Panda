@@ -1,0 +1,31 @@
+Age,Experience,Salary,Score,Projects,Rating,Department,Gender,Education,Location
+25,2,40000,85,2,4.5,HR,Male,Bachelors,Addis Ababa
+30,5,55000,90,5,4.8,IT,Female,Masters,Adama
+28,4,,88,4,4.6,Finance,Female,Bachelors,Bahir Dar
+26,3,42000,82,3,4.2,HR,Male,Bachelors,Addis Ababa
+,6,60000,95,6,4.9,IT,Male,Masters,Adama
+32,,65000,91,5,4.7,Marketing,Female,Masters,Addis Ababa
+29,4,, ,4,4.5,Sales,,Bachelors,Bahir Dar
+27,3,45000,87,3,4.3,HR,Male,,Addis Ababa
+31,5,62000,92,5,4.8,Finance,Female,Masters,Adama
+33,6,68000,94,6,,IT,Male,Masters,Bahir Dar
+24,1,39000,80,2,4.1,Sales,Female,Bachelors,Addis Ababa
+35,8,70000,96,7,5.0,Marketing,Male,Masters,Adama
+28,4,51000,89,4,4.6,HR,Female,Bachelors,Bahir Dar
+26,2,43000,83,3,4.2,IT,Male,Bachelors,Addis Ababa
+30,5,57000,90,5,4.7,Finance,Female,Masters,Adama
+27,3,46000,85,3,4.4,Sales,Male,Bachelors,Bahir Dar
+29,4,,88,4,4.5,Marketing,Female,Masters,Addis Ababa
+32,6,64000,92,5,4.7,IT,Male,Masters,Adama
+28,4,50000,87,,4.5,HR,Female,Bachelors,Bahir Dar
+26,3,42000,84,3,4.3,Sales,Male,Bachelors,Addis Ababa
+31,5,61000,91,5,4.8,Finance,Female,Masters,Adama
+33,6,67000,93,6,4.9,IT,Male,Masters,Bahir Dar
+25,2,40000,82,2,4.2,HR,Female,Bachelors,Addis Ababa
+34,7,69000,95,6,4.9,Marketing,Male,Masters,Adama
+28,4,52000,89,4,4.6,Finance,Female,Bachelors,Bahir Dar
+27,3,45000,86,3,4.3,Sales,Male,Bachelors,Addis Ababa
+29,4,50000,88,4,4.5,IT,Female,Masters,Adama
+30,5,57000,90,5,4.7,HR,Male,Bachelors,Bahir Dar
+26,3,43000,83,3,4.2,Sales,Female,Bachelors,Addis Ababa
+32,6,65000,92,5,4.7,IT,Male,Masters,Adama
