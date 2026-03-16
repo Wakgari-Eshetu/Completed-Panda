@@ -1,0 +1,21 @@
+Experience,Salary,Rating,Department,Gender,Education,Position,Age,Tenure,Region
+2,40000,3.8,IT,M,Masters,Engineer,25,2,North
+5,55000,4.5,HR,F,Bachelor,Manager,30,5,South
+7,70000,4.9,IT,M,Masters,Senior Engineer,35,7,East
+3,45000,4.0,Sales,F,Bachelor,Executive,28,3,West
+,48000,4.2,IT,M,PhD,Engineer,26,2,North
+10,90000,5.0,Marketing,F,Masters,Director,40,10,South
+4,50000,,Sales,M,Bachelor,Executive,27,4,East
+6,,4.3,HR,F,Masters,Manager,32,6,West
+,42000,3.9,,M,Bachelor,Analyst,24,1,North
+8,80000,4.8,Marketing,F,Masters,Senior Manager,38,8,South
+3,43000,3.7,Sales,M,Bachelor,Executive,29,3,East
+5,60000,4.6,HR,F,Masters,Manager,31,5,West
+2,41000,,IT,M,Bachelor,Engineer,25,2,North
+7,72000,4.7,Sales,F,Masters,Senior Engineer,36,7,South
+,50000,4.1,Marketing,M,PhD,Analyst,27,3,East
+4,52000,4.4,HR,F,Masters,Manager,30,4,West
+6,65000,4.5,IT,M,Masters,Senior Engineer,34,6,North
+5,58000,,Sales,F,Bachelor,Executive,29,5,South
+,49000,4.0,Marketing,M,Masters,Analyst,26,2,East
+9,85000,4.9,IT,F,PhD,Director,39,9,West
